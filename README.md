@@ -40,8 +40,3 @@ Contribuições para este projeto são bem-vindas! Se você tiver sugestões, me
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE), o que significa que você tem a liberdade de usar, modificar e distribuir o código conforme desejar.
 
-## Contato
-
-Se você tiver alguma dúvida ou precisar de ajuda, não hesite em entrar em contato ou abrir uma issue neste repositório.
-
-Obrigado por explorar este projeto avançado! Esperamos que seja útil e inspirador para seus próprios projetos de desenvolvimento de software.
